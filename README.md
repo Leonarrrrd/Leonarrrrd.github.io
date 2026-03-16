@@ -179,7 +179,7 @@
         <div class="subhead">
             Interaction Design · Discovering Requirements
         </div>
-        <!-- Project Goal (Replace with your actual goal) -->
+        Go Training APP
         <section>
             <h2>Project Goal</h2>
             <div class="goal-card">
@@ -224,7 +224,7 @@
                 </div>
             </div>
         </section>
-        <!-- User Personas (Replace with personas tailored to your project) -->
+        goal users
         <section>
             <h2>User Personas</h2>
             <div class="persona-grid">
