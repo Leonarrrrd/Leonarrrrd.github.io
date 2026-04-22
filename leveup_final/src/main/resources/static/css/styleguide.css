@@ -1,0 +1,80 @@
+:root {
+  --white: rgba(255, 255, 255, 1);
+  --black: rgba(32, 33, 23, 1);
+  --green-primary: rgba(175, 234, 13, 1);
+  --body-text-font-family: "SF Pro", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 14px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: 17.299999237060547px;
+  --body-text-font-style: normal;
+  --button-font-family: "SF Pro", Helvetica;
+  --button-font-weight: 700;
+  --button-font-size: 16px;
+  --button-letter-spacing: 0px;
+  --button-line-height: 22px;
+  --button-font-style: normal;
+  --variable-collection-highlightcolor: rgba(0, 0, 0, 1);
+  --variable-collection-gray: var(--variable-collection-highlightcolor);
+  --variable-collection-GRAY: rgba(112, 110, 110, 1);
+  --variable-collection-6d6d6d: var(--variable-collection-gray);
+  --variable-collection-color: rgba(109, 109, 109, 1);
+  --variable-collection-apple-blue: rgba(0, 122, 255, 1);
+  --variable-collection-unfinished: rgba(0, 0, 0, 0.6);
+
+
+/* root of signup */
+  --label-colorlightprimary: rgba(0, 0, 0, 1);
+  --neutral-800: rgba(31, 41, 55, 1);
+  --title-screen-font-family: "Gabarito", Helvetica;
+  --title-screen-font-weight: 700;
+  --title-screen-font-size: 30px;
+  --title-screen-letter-spacing: -0.15px;
+  --title-screen-line-height: 34px;
+  --title-screen-font-style: normal;
+  --body-default-font-family: "Gabarito", Helvetica;
+  --body-default-font-weight: 400;
+  --body-default-font-size: 14px;
+  --body-default-letter-spacing: 0.14px;
+  --body-default-line-height: 22px;
+  --body-default-font-style: normal;
+  --title-group-font-family: "Gabarito", Helvetica;
+  --title-group-font-weight: 500;
+  --title-group-font-size: 14px;
+  --title-group-letter-spacing: 0.21px;
+  --title-group-line-height: 20px;
+  --title-group-font-style: normal;
+  --title-section-font-family: "Gabarito", Helvetica;
+  --title-section-font-weight: 700;
+  --title-section-font-size: 26px;
+  --title-section-letter-spacing: -0.13px;
+  --title-section-line-height: 32px;
+  --title-section-font-style: normal;
+  --body-large-font-family: "Gabarito", Helvetica;
+  --body-large-font-weight: 400;
+  --body-large-font-size: 16px;
+  --body-large-letter-spacing: -0.08px;
+  --body-large-line-height: 24px;
+  --body-large-font-style: normal;
+  --variable-collection-highlightcolor: rgba(0, 0, 0, 1);
+  --variable-collection-gray: var(--variable-collection-highlightcolor);
+  --variable-collection-GRAY: rgba(112, 110, 110, 1);
+  --variable-collection-6d6d6d: var(--variable-collection-gray);
+  --variable-collection-color: rgba(109, 109, 109, 1);
+  --variable-collection-apple-blue: rgba(0, 122, 255, 1);
+  --variable-collection-unfinished: rgba(0, 0, 0, 0.6);
+  --variable-collection-shade-white: var(--color-shade-white);
+  --color-neutral-n800: rgba(30, 41, 59, 1);
+  --color-neutral-n400: rgba(148, 163, 184, 1);
+  --color-neutral-n500: rgba(100, 116, 139, 1);
+  --color-shade-white: rgba(255, 255, 255, 1);
+  --color-neutral-n100: rgba(241, 245, 249, 1);
+  --color-neutral-n200: rgba(226, 232, 240, 1);
+  --color-primary-color-primary-color: rgba(43, 135, 97, 1);
+  --color-supporting-color-error: rgba(209, 46, 52, 1);
+  --color-supporting-color-success: rgba(49, 125, 53, 1);
+  --color-neutral-n600: rgba(71, 85, 105, 1);
+  --layouts-radius-full: 9999px;
+
+
+}
