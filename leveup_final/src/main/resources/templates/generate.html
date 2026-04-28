@@ -141,6 +141,11 @@
 
     <form th:action="@{/workouts/generate-confirm}" method="post">
       <input type="hidden" name="templateId" th:value="${param.templateId != null ? param.templateId[0] : 1}" />
+        <th:block th:if="${exercises != null}">
+        <th:block th:each="ex : ${exercises}">
+            <input type="hidden" name="exerciseIds" th:value="${ex.id}" />
+        </th:block>
+    </th:block>
       <button type="submit" class="btn-action">Start Workout</button>
     </form>
     <a th:href="@{/workouts/templates}"><button class="btn-back">Back</button></a>
